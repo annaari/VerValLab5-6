@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Entities>
+    <homework ID="3">
+        <Description>gui</Description>
+        <Deadline>14</Deadline>
+        <Startline>7</Startline>
+    </homework>
+    <homework ID="5">
+        <Description>le</Description>
+        <Deadline>6</Deadline>
+        <Startline>4</Startline>
+    </homework>
+    <homework ID="10">
+        <Description>le</Description>
+        <Deadline>12</Deadline>
+        <Startline>4</Startline>
+    </homework>
+</Entities>
